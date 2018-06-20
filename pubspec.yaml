@@ -1,7 +1,7 @@
 name: Telegram
-description: A simple telegram bot( KABot )
+description: A simple telegram bot
 version: 1.0.0
-homepage: https://github.com/theKAKAN/TeleBot
+homepage: https://github.com/theKAKAN/TelegramBot
 author: KAKAN
 
 environment:
